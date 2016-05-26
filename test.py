@@ -53,9 +53,9 @@ signals = []
 # Ui		???
 # Cs 		???
 # FP		???
-# Bk		???
-# Bw		???
-# Et		IP Config
+# Bk		Bookmarks - 1 Bk entity per program file
+# Bw		Symbols that are open and attributes about where they are placed on the screen
+# Et		Ethernet IP Config
 # VTP		Touch panel smart path
 # EtU		???
 # Sm 		Symbol Configuration
