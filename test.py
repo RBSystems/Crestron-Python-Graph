@@ -50,12 +50,12 @@ signals = []
 #											x ObjTp: Object Type
 #											x DBt: Data Bits
 # Db		Crestron devices config
-# Ui		???
+# Ui		Pointers to VTP files
 # Cs 		???
-# FP		???
-# Bk		???
-# Bw		???
-# Et		IP Config
+# FP		File partition ???
+# Bk		Bookmarks - 1 Bk entity per program file
+# Bw		Symbols that are open and attributes about where they are placed on the screen
+# Et		Ethernet IP Config
 # VTP		Touch panel smart path
 # EtU		???
 # Sm 		Symbol Configuration
